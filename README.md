@@ -4,4 +4,4 @@ Built a password generator system allowing users to create secure, randomized pa
 - Developed a responsive and clean user interface.
 - Used JavaScript for randomization and real-time password generation.
 - Ensured performance optimization and cross-browser compatibility.
-- Access: [http://127.0.0.1:3004/index.html](https://password-generator-system-mu.vercel.app/)
+- Access: https://password-generator-system-mu.vercel.app/
